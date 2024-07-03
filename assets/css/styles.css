@@ -415,6 +415,22 @@ body{
     transform: translateY(-10px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
+@media (max-width: 767px) {
+     .t-image{
+        height: 18vh;
+     }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .t-image{
+        height: 21vh;
+     }
+}
+@media (min-width: 1441px) {
+    .t-image{
+        height: 10vh;
+     }
+}
+
 
 
 
