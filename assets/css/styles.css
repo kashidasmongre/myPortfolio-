@@ -430,6 +430,13 @@ body{
         height: 10vh;
      }
 }
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .t-image{
+        height: 15vh;
+     }
+}
+}
+
 
 
 
